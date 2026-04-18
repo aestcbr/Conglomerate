@@ -1,0 +1,12 @@
+{
+  "divisions": [
+    {
+      "name": "Energy",
+      "focus": "Oil & Renewable Energy"
+    },
+    {
+      "name": "Technology",
+      "focus": "Software & AI"
+    }
+  ]
+}
